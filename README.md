@@ -1,5 +1,6 @@
 # TinyMCE5-Page-Number
-TinyMCE 5 WYSIWYG editöründe sayfaya sayfa numarası eklenmek istendiğinde Insert(Ekle) menüsü altında bulunan Page number(Sayfa numarası) menü elemanına basılabilir. Menu elemanına her basıldığında sayı bir artacaktır. Sayfa numarası için &lt;var class="page"&gt; elementi kullanılmıştır.
+TinyMCE 5 WYSIWYG editöründe sayfaya sayfa numarası eklenmek istendiğinde Insert(Ekle) menüsü altında bulunan Page number(Sayfa numarası) menü elemanına basılabilir. Menu elemanına her basıldığında sayı bir artacaktır. Sayfa numarası için
+&lt;var class="page"&gt; HTML elementi kullanılmıştır.
 
 Türkçe kullanabilmek için dil dosyasının sonuna aşağıdaki satırları ekleyebilirsiniz:
 
